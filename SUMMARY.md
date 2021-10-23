@@ -10,3 +10,4 @@
 ## 第二章 物理层
 
 * [2.1 通信基础](di-er-zhang-wu-li-ceng/2.1-tong-xin-ji-chu.md)
+* [2.2 传输介质](di-er-zhang-wu-li-ceng/2.2-chuan-shu-jie-zhi.md)
