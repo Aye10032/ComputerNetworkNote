@@ -17,3 +17,4 @@
 * [3.1 数据链路层的功能](di-san-zhang-shu-ju-lian-lu-ceng/3.1-shu-ju-lian-lu-ceng-de-gong-neng.md)
 * [3.2 组帧](di-san-zhang-shu-ju-lian-lu-ceng/3.2-zu-zhen.md)
 * [3.3 差错控制](di-san-zhang-shu-ju-lian-lu-ceng/3.3-cha-cuo-kong-zhi.md)
+* [3.4 流量控制与可靠传输机制](di-san-zhang-shu-ju-lian-lu-ceng/3.4-liu-liang-kong-zhi-yu-ke-kao-chuan-shu-ji-zhi.md)
