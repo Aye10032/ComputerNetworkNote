@@ -22,3 +22,7 @@
 * [3.6 局域网](di-san-zhang-shu-ju-lian-lu-ceng/3.6-ju-yu-wang.md)
 * [3.7 广域网](di-san-zhang-shu-ju-lian-lu-ceng/3.7-guang-yu-wang.md)
 * [3.8 数据链路层设备](di-san-zhang-shu-ju-lian-lu-ceng/3.8-shu-ju-lian-lu-ceng-she-bei.md)
+
+## 第四章 网络层
+
+* [4.1 网络层的功能](di-si-zhang-wang-luo-ceng/4.1-wang-luo-ceng-de-gong-neng.md)
