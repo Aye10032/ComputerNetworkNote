@@ -28,4 +28,5 @@
 * [4.1 网络层的功能](di-si-zhang-wang-luo-ceng/4.1-wang-luo-ceng-de-gong-neng.md)
 * [4.2 IPV4](di-si-zhang-wang-luo-ceng/4.2-ipv4.md)
 * [4.3 IPV6](di-si-zhang-wang-luo-ceng/4.3-ipv6.md)
-* [4.4 路由算法](di-si-zhang-wang-luo-ceng/4.4-lu-you-suan-fa.md)
+* [4.4 路由算法和路由协议](di-si-zhang-wang-luo-ceng/4.4-lu-you-suan-fa.md)
+
