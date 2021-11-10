@@ -29,4 +29,6 @@
 * [4.2 IPV4](di-si-zhang-wang-luo-ceng/4.2-ipv4.md)
 * [4.3 IPV6](di-si-zhang-wang-luo-ceng/4.3-ipv6.md)
 * [4.4 路由算法和路由协议](di-si-zhang-wang-luo-ceng/4.4-lu-you-suan-fa.md)
-
+* [4.5 IP组播](di-si-zhang-wang-luo-ceng/4.5-ip-zu-bo.md)
+* [4.6 移动IP](di-si-zhang-wang-luo-ceng/4.6-yi-dong-ip.md)
+* [4.7 网络层设备](di-si-zhang-wang-luo-ceng/4.7-wang-luo-ceng-she-bei.md)
