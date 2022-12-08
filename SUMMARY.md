@@ -50,3 +50,4 @@
 ## 第七章 附录
 
 * [7.1 计算机网络协议一览](di-qi-zhang-fu-lu/7.1-ji-suan-ji-wang-luo-xie-yi-yi-lan.md)
+* [7.2 各字段长度单位一览](di-qi-zhang-fu-lu/7.2-ge-zi-duan-chang-du-dan-wei-yi-lan.md)
