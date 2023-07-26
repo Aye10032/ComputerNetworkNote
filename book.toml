@@ -23,7 +23,11 @@ include-src = false
 block-delimiter = { left = "$$", right = "$$" }
 inline-delimiter = { left = "$", right = "$" }
 
+[preprocessor.admonish]
+command = "mdbook-admonish"
+
 [output.html]
+additional-css = ["./mdbook-admonish.css"]
 
 [output.pdf]
 ## Set for auto-retrying if failed to generate PDF.
