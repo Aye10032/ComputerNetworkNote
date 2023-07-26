@@ -25,9 +25,10 @@ inline-delimiter = { left = "$", right = "$" }
 
 [preprocessor.admonish]
 command = "mdbook-admonish"
+assets_version = "2.0.1" # do not edit: managed by `mdbook-admonish install`
 
 [output.html]
-additional-css = ["./mdbook-admonish.css"]
+additional-css = ["./mdbook-admonish.css", '.\mdbook-admonish.css']
 
 [output.pdf]
 ## Set for auto-retrying if failed to generate PDF.
